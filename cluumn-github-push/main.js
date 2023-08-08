@@ -1,0 +1,1 @@
+https://github.com/tatsuyasusukida/column-github-push/blob/main/main.js
